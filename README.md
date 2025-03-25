@@ -23,7 +23,7 @@ To view the [Documentation](https://github.com/EmilyMCjava/SimpleCalculator/wiki
 
 To install this project follow the steps:
 
-1. Download latest from [releases]()
+1. Download latest from [releases](https://github.com/EmilyMCjava/SimpleCalculator/releases/tag/v1.1.0) and extract it
 2. Go to <browser>://extensions/addons
 example:
 ```bash
@@ -34,7 +34,7 @@ firefox://addons
 ```
 Note* if your unsure where it is you can check [here](https://umatechnology.org/how-to-view-a-list-of-extensions-installed-in-all-your-browsers/).
 
-3. Once your in your extensions page click on `load unpacked` then navigate to where you downloaded [SimpleCalculator]() from.
+3. Once your in your extensions page click on `load unpacked` then navigate to where you downloaded [SimpleCalculator](https://github.com/EmilyMCjava/SimpleCalculator/releases/tag/v1.1.0) from.
 4. Enjoy!!!
 
 ## License
